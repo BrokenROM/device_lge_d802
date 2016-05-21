@@ -9,6 +9,7 @@ LG G2 D802 Device Configuration for Broken OS
   <project path="vendor/lge" name="drgroovestarr/vendor_g2" remote="github" revision="m6.0.1" />
   <project path="kernel/lge/msm8974" name="drgroovestarr/lambda_kernel_lge_msm8974" remote="github" revision="m6.0.1" />
   <project name="BrokenROM/packages_apps_SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="github" revision="m6.0.1" />
+  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" />
 
 </manifest>
